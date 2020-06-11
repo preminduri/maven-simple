@@ -1,5 +1,4 @@
 *.class
-target/
 bin/
 .project
 .classpath
